@@ -3,6 +3,12 @@ Parsing JSON data arriving over a bad protocol such that there is no delimiter b
 
 ***
 
+IMPORTANT:
+
+I wrote "pretty_json_client.py" and "test.py", which interact with the "ugly_json_server.py".
+
+***
+
 The command "python3" is used below assuming that
 it is the command name for python 3.
 
