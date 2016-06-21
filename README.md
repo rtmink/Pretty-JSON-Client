@@ -1,6 +1,8 @@
 # Pretty-JSON-Client
 Parsing JSON data arriving over a bad protocol such that there is no delimiter between the JSON objects.
 
+***
+
 The command "python3" is used below assuming that
 it is the command name for python 3.
 
